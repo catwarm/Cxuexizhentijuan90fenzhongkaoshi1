@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/cloudide/workspace/Cxuexizhentijuan90fenzhongkaoshi1/build",
+  "command": "/home/cloudide/.nix-profile/bin/g++   -g -o CMakeFiles/main.dir/main1.cpp.o -c /cloudide/workspace/Cxuexizhentijuan90fenzhongkaoshi1/main1.cpp",
+  "file": "/cloudide/workspace/Cxuexizhentijuan90fenzhongkaoshi1/main1.cpp",
+  "output": "CMakeFiles/main.dir/main1.cpp.o"
+}
+]
